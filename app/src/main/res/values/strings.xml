@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Portfolio App</string>
+
+    <string name="portfolio_title">Jan\'s App Portfolio</string>
+    <string name="portfolio_button_spotify">Spotify Streamer</string>
+    <string name="portfolio_button_spotify_toast">This will launch the Spotify Streamer</string>
+    <string name="portfolio_button_scores">Scores App</string>
+    <string name="portfolio_button_scores_toast">This will launch the Scores App</string>
+    <string name="portfolio_button_libapp">Library App</string>
+    <string name="portfolio_button_libapp_toast">This will launch the Library App</string>
+    <string name="portfolio_button_builditbigger">Build It Bigger</string>
+    <string name="portfolio_button_builditbigger_toast">This will launch the Build It Bigger App</string>
+    <string name="portfolio_button_xyz">XYZ Reader</string>
+    <string name="portfolio_button_xyz_toast">This will launch the XYZ Reader</string>
+    <string name="portfolio_button_capstone">Capstone: Finals!</string>
+    <string name="portfolio_button_capstone_toast">If you hit this you are done! Congratulations!</string>
+    <string name="action_settings">Settings</string>
+</resources>
